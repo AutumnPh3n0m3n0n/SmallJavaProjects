@@ -1,0 +1,12 @@
+A;Robert Johnson;Job Counseling;Hillsborough Community Centre 135;8;25;2018;11;00;Help find a job;Improving my interview skills;Getting job training
+A;Daniel Smith;Doctors Appointment;Hillsborough Medical Facility 444;4;2;2018;10;00;Six month check up;Discuss about any medical problems;ANy surgery options
+A;Nicholas Nguyen;Academic Counseling;Hoffman Centre 432;6;1;2018;13;30;Discuss about Masters program;See if my major requirements are complete;Discuss about job opportunities
+E;Physics;Difficult;Foster Centre 333;6;8;2018;9;00;Covers electromagnitism and electric engineering concepts;Half multiple choice and half free response;Have calculator ready
+E;Statistics;Easy;Hoffman Centre 222;6;6;2018;14;00;Covers regression techniques and experiment designs;One note sheet front and back;Have calculator ready
+E;Mathematics;Difficult;Hoffman Centre 321;6;12;2018;12;30;Covers some real analysis and abstract algebra;Mostly free response;Math journal can be used
+E;Computer Science;Moderate;Kennedy Centre 234;6;13;2018;17;30;Covers object oriented programming;Mostly C++ and java is covered;Mostly programming questions
+R;Concert;Metallica;Moda Centre;8;28;2018;19;00;Smashing Pumpkins have the pre show;Metallica set starts at 9pm;Seeing concert with 5 friends
+R;Concert;Drake;Memorial Coliseum;11;2;2018;19;30;Migos has the pre show;Drake set starts at 10pm;Seeing concert with 7 friends
+R;Birthday Celebration;Michael Hernandez;45 East Nightclub;7;31;2018;20;30;Michael is turning 22;Have a VIP table reserved for 10 people;Seeing a Nero concert
+R;Graduation Party;2018 PSU College Graduates; Portland City Grill;6;16;2018;21;00;Reserve a large table for 25 people;Must set up a reservation at least a month in advance;Not everybody may attend
+R;Grand Canyon Hike; Hiking the Grand Canyon with Multiple Friends; Arizona;9;1;2018;5;30;Hiking rim to rim and back over two days;Have lots of water and food ready;Purchase a large hiking backpack
