@@ -1,0 +1,2 @@
+# SmallJavaProjects
+Java Assignments
